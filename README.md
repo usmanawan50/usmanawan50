@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Awan</h1>
-<h3 align="center">Passionate Software Developer/ Embedded Software Enfineer</h3>
+<h3 align="center">Passionate Software Developer/ Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanawan50&label=Profile%20views&color=0e75b6&style=flat" alt="usmanawan50" /> </p>
 
