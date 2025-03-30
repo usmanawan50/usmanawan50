@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmanawan50/usmanawan50](https://github.com/usmanawan50/usmanawan50)
 
-- 💬 Ask me about **Software Development, Assembly coding and Discrete Simulation Mechanics**
+- 💬 Ask me about **Software Development, Assembly coding and Computer Vision**
 
 - 📫 How to reach me **mdusmanawan50@gmail.com**
 
